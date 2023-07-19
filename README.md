@@ -4,7 +4,9 @@
 
 ## Usage
 
-![image](https://github.com/err4ntry/ether2can/assets/102002513/dcdbe7c8-6816-4691-b5af-85988fb06297)
+<div align="center">
+  <img src="[https://github.com/******/dbscan_clustering_algorithm/blob/master/data/DBSCAN.png](https://github.com/err4ntry/ether2can/blob/master/screenshots/E%5D8RJM150H~%7D8LL%7DZBEDXP7.png)">
+</div>
 
 
 GCAN212模块使用12V直流供电，电机使用24V直流供电。
