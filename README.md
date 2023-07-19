@@ -17,6 +17,6 @@ GCAN212默认端口号4001，代码中需要保持一致，如addrSrv.sin_port =
 
 帧数据可参考通讯协议：
 
-<img src="C:\Users\CZ\AppData\Roaming\Typora\typora-user-images\image-20220411155249261.png" alt="image-20220411155249261" style="zoom:80%;" />
+![image text](https://github.com/err4ntry/ether2can/blob/master/screenshots/QQ%E5%9B%BE%E7%89%8720220411165450.jpg "DBSCAN Performance Comparison")
 
 上传的测试代码中正弦函数峰值速度为10rad/s，周期为10s，每0.1s发送一次信号。
