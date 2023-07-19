@@ -50,8 +50,6 @@
                 break;
                 }
         }*/
-        int a;
-        scanf("%d",a);
         close(client_sockfd);//关闭套接字
             return 0;
     }
