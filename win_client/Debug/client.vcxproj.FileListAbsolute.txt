@@ -1,0 +1,6 @@
+D:\vs\client\Debug\client.exe
+C:\Users\CZ\Desktop\vs\client\Debug\client.exe
+C:\Users\CZ\Desktop\vs - 副本\client\Debug\client.exe
+C:\Users\CZ\Desktop\tcp\client\Debug\client.exe
+C:\Users\CZ\Desktop\TCP测试代码\win_client\Debug\client.exe
+C:\Users\CZ\Desktop\软硬件资料\以太网转CAN\TCP测试代码\win_client\Debug\client.exe

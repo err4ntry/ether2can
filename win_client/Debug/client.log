@@ -1,0 +1,42 @@
+﻿  client.cpp
+C:\Users\CZ\Desktop\软硬件资料\以太网转CAN\TCP测试代码\win_client\client.cpp(92,45): warning C4838: 从“int”转换到“char”需要收缩转换
+C:\Users\CZ\Desktop\软硬件资料\以太网转CAN\TCP测试代码\win_client\client.cpp(92,45): warning C4309: “初始化”: 截断常量值
+C:\Users\CZ\Desktop\软硬件资料\以太网转CAN\TCP测试代码\win_client\client.cpp(92,50): warning C4838: 从“int”转换到“char”需要收缩转换
+C:\Users\CZ\Desktop\软硬件资料\以太网转CAN\TCP测试代码\win_client\client.cpp(92,50): warning C4309: “初始化”: 截断常量值
+C:\Users\CZ\Desktop\软硬件资料\以太网转CAN\TCP测试代码\win_client\client.cpp(92,55): warning C4838: 从“int”转换到“char”需要收缩转换
+C:\Users\CZ\Desktop\软硬件资料\以太网转CAN\TCP测试代码\win_client\client.cpp(92,55): warning C4309: “初始化”: 截断常量值
+C:\Users\CZ\Desktop\软硬件资料\以太网转CAN\TCP测试代码\win_client\client.cpp(92,60): warning C4838: 从“int”转换到“char”需要收缩转换
+C:\Users\CZ\Desktop\软硬件资料\以太网转CAN\TCP测试代码\win_client\client.cpp(92,60): warning C4309: “初始化”: 截断常量值
+C:\Users\CZ\Desktop\软硬件资料\以太网转CAN\TCP测试代码\win_client\client.cpp(92,65): warning C4838: 从“int”转换到“char”需要收缩转换
+C:\Users\CZ\Desktop\软硬件资料\以太网转CAN\TCP测试代码\win_client\client.cpp(92,65): warning C4309: “初始化”: 截断常量值
+C:\Users\CZ\Desktop\软硬件资料\以太网转CAN\TCP测试代码\win_client\client.cpp(92,70): warning C4838: 从“int”转换到“char”需要收缩转换
+C:\Users\CZ\Desktop\软硬件资料\以太网转CAN\TCP测试代码\win_client\client.cpp(92,70): warning C4309: “初始化”: 截断常量值
+C:\Users\CZ\Desktop\软硬件资料\以太网转CAN\TCP测试代码\win_client\client.cpp(92,75): warning C4838: 从“int”转换到“char”需要收缩转换
+C:\Users\CZ\Desktop\软硬件资料\以太网转CAN\TCP测试代码\win_client\client.cpp(92,75): warning C4309: “初始化”: 截断常量值
+C:\Users\CZ\Desktop\软硬件资料\以太网转CAN\TCP测试代码\win_client\client.cpp(92,80): warning C4838: 从“int”转换到“char”需要收缩转换
+C:\Users\CZ\Desktop\软硬件资料\以太网转CAN\TCP测试代码\win_client\client.cpp(92,80): warning C4309: “初始化”: 截断常量值
+C:\Users\CZ\Desktop\软硬件资料\以太网转CAN\TCP测试代码\win_client\client.cpp(100,21): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\CZ\Desktop\软硬件资料\以太网转CAN\TCP测试代码\win_client\client.cpp(145,50): warning C4838: 从“int”转换到“char”需要收缩转换
+C:\Users\CZ\Desktop\软硬件资料\以太网转CAN\TCP测试代码\win_client\client.cpp(145,50): warning C4309: “初始化”: 截断常量值
+C:\Users\CZ\Desktop\软硬件资料\以太网转CAN\TCP测试代码\win_client\client.cpp(145,62): warning C4838: 从“uint8_t”转换到“char”需要收缩转换
+C:\Users\CZ\Desktop\软硬件资料\以太网转CAN\TCP测试代码\win_client\client.cpp(145,80): warning C4838: 从“int”转换到“char”需要收缩转换
+C:\Users\CZ\Desktop\软硬件资料\以太网转CAN\TCP测试代码\win_client\client.cpp(145,80): warning C4309: “初始化”: 截断常量值
+C:\Users\CZ\Desktop\软硬件资料\以太网转CAN\TCP测试代码\win_client\client.cpp(150,13): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+C:\Users\CZ\Desktop\软硬件资料\以太网转CAN\TCP测试代码\win_client\client.cpp(155,45): warning C4838: 从“int”转换到“char”需要收缩转换
+C:\Users\CZ\Desktop\软硬件资料\以太网转CAN\TCP测试代码\win_client\client.cpp(155,45): warning C4309: “初始化”: 截断常量值
+C:\Users\CZ\Desktop\软硬件资料\以太网转CAN\TCP测试代码\win_client\client.cpp(155,50): warning C4838: 从“int”转换到“char”需要收缩转换
+C:\Users\CZ\Desktop\软硬件资料\以太网转CAN\TCP测试代码\win_client\client.cpp(155,50): warning C4309: “初始化”: 截断常量值
+C:\Users\CZ\Desktop\软硬件资料\以太网转CAN\TCP测试代码\win_client\client.cpp(155,55): warning C4838: 从“int”转换到“char”需要收缩转换
+C:\Users\CZ\Desktop\软硬件资料\以太网转CAN\TCP测试代码\win_client\client.cpp(155,55): warning C4309: “初始化”: 截断常量值
+C:\Users\CZ\Desktop\软硬件资料\以太网转CAN\TCP测试代码\win_client\client.cpp(155,60): warning C4838: 从“int”转换到“char”需要收缩转换
+C:\Users\CZ\Desktop\软硬件资料\以太网转CAN\TCP测试代码\win_client\client.cpp(155,60): warning C4309: “初始化”: 截断常量值
+C:\Users\CZ\Desktop\软硬件资料\以太网转CAN\TCP测试代码\win_client\client.cpp(155,65): warning C4838: 从“int”转换到“char”需要收缩转换
+C:\Users\CZ\Desktop\软硬件资料\以太网转CAN\TCP测试代码\win_client\client.cpp(155,65): warning C4309: “初始化”: 截断常量值
+C:\Users\CZ\Desktop\软硬件资料\以太网转CAN\TCP测试代码\win_client\client.cpp(155,70): warning C4838: 从“int”转换到“char”需要收缩转换
+C:\Users\CZ\Desktop\软硬件资料\以太网转CAN\TCP测试代码\win_client\client.cpp(155,70): warning C4309: “初始化”: 截断常量值
+C:\Users\CZ\Desktop\软硬件资料\以太网转CAN\TCP测试代码\win_client\client.cpp(155,75): warning C4838: 从“int”转换到“char”需要收缩转换
+C:\Users\CZ\Desktop\软硬件资料\以太网转CAN\TCP测试代码\win_client\client.cpp(155,75): warning C4309: “初始化”: 截断常量值
+C:\Users\CZ\Desktop\软硬件资料\以太网转CAN\TCP测试代码\win_client\client.cpp(155,80): warning C4838: 从“int”转换到“char”需要收缩转换
+C:\Users\CZ\Desktop\软硬件资料\以太网转CAN\TCP测试代码\win_client\client.cpp(155,80): warning C4309: “初始化”: 截断常量值
+C:\Users\CZ\Desktop\软硬件资料\以太网转CAN\TCP测试代码\win_client\client.cpp(69,33): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  client.vcxproj -> C:\Users\CZ\Desktop\软硬件资料\以太网转CAN\TCP测试代码\win_client\Debug\client.exe

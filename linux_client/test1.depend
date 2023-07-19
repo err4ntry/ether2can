@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1648403231 source:/home/cz/test1/main.c
+	<stdio.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<string.h>
+	<unistd.h>
+
