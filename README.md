@@ -4,7 +4,8 @@
 
 ## Usage
 
-<img src="C:\Users\CZ\AppData\Roaming\Typora\typora-user-images\image-20220411154120127.png" alt="image-20220411154120127" style="zoom: 80%;" />
+![image](https://github.com/err4ntry/ether2can/assets/102002513/dcdbe7c8-6816-4691-b5af-85988fb06297)
+
 
 GCAN212模块使用12V直流供电，电机使用24V直流供电。
 
