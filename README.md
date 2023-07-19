@@ -4,9 +4,7 @@
 
 ## Usage
 
-<div align="center">
-  <img src="[https://github.com/******/dbscan_clustering_algorithm/blob/master/data/DBSCAN.png](https://github.com/err4ntry/ether2can/blob/master/screenshots/E%5D8RJM150H~%7D8LL%7DZBEDXP7.png)">
-</div>
+![image text](https://github.com/err4ntry/ether2can/blob/master/screenshots/E%5D8RJM150H~%7D8LL%7DZBEDXP7.png "DBSCAN Performance Comparison")
 
 
 GCAN212模块使用12V直流供电，电机使用24V直流供电。
